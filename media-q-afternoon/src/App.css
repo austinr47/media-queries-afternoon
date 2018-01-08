@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  /* background-color: gray; */
+  /* height: 100vh; */
+  display: flex;
+  flex-direction: column;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 29px;
+  height: 42px;
+}
+
+.nav-title {
+  font-size: 28px;
+  color: #fecd25;
+  font-family: 'Kaushan Script', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.menu-text {
+  font-size: 15px;
+  padding: 9px;
+  color: white;
+}
+
+.top-section {
+  background-color: gray;
+  height: 759px;
+}
