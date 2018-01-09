@@ -63,7 +63,7 @@
   justify-content: center;
   align-content: center;
   width: 930px;
-  margin: 150px auto auto auto;
+  margin: 70px auto auto auto;
 }
 
 .welcome1 {
@@ -74,12 +74,15 @@
 .welcome2 {
   font-size: 75px;
   color: white;
-  margin-top: 10px;
+  margin-top: 25px;
+  font-weight: bold;
+  line-height: 75px;
 }
 
 .welcome3 {
   font-size: 40px;
   color: white;
+  margin-top: 15px;
 }
 
 .button {
@@ -89,6 +92,9 @@
   color: white;
   padding: 20px 40px;
   margin-top: 20px;
+  line-height: 27px;
+  border-color: #fed136;
+  font-weight: bold;
 }
 
 .menu-text2 {

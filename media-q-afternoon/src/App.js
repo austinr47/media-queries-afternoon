@@ -43,8 +43,6 @@ class App extends Component {
               <li className='list2'> TEAM </li>
               <li className='list2'> CONTACT</li>
             </ul>
-        <div>
-        </div>
         {/* This is the welcome/nice to meet you */}
         <div className='welcome'>
           <div className='welcome1'>
